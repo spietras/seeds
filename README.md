@@ -30,7 +30,7 @@ The installation is not fully automated,
 as you still need to manually answer some specific questions
 (like user account creation).
 
-To use a preseed, you need pass it to the installer.
+To use a preseed, you need to pass it to the installer.
 See [Debian documentation](https://wiki.debian.org/DebianInstaller/Preseed)
 for more details and possible options.
 I recommend using the [netboot.xyz](https://netboot.xyz) installer.
