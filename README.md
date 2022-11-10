@@ -1,6 +1,6 @@
 # preseeds
 
-Debian preseeds 🌱
+Debian server preseeds 🌱
 
 ## Available preseeds
 
