@@ -4,11 +4,7 @@ Debian Bullseye preseeds 🌱
 
 ## Server
 
-Click [here](server.cfg) to download the preseed file or copy the URL below:
-
-```
-https://spietras.github.io/seeds/debian/bullseye/server.cfg
-```
+Click [here](server.cfg) to get the preseed file.
 
 Assumptions:
 
